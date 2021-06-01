@@ -1,11 +1,12 @@
 {
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  },
   "name": "star-fetch",
   "version": "1.0.0",
   "description": "Fetch apis easily!",
   "main": "index.js",
   "author": "lrd7",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/L0R4/star-fetch.git",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
